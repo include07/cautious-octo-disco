@@ -1,0 +1,16 @@
+body{
+    background-color: lightpink;
+}
+img{
+    height: auto;
+    width: 400px;
+}
+h1,h3,p,a,li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+}
+a{
+    font-size: 35px;
+}
